@@ -52,5 +52,5 @@ The database consists of **6 core tables**, designed for normalization and data 
 
 ---
 
-## Project Structure
+
 
