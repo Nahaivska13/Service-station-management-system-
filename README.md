@@ -2,16 +2,16 @@
 
 ## Overview
 "Katalizator" is a relational database system designed for a car service station.  
-The system helps to **manage clients, track service orders, monitor spare parts inventory, and assign tasks to employees**.  
-This project demonstrates skills in **database design, SQL, data analytics**.
+The system helps to manage clients, track service orders, monitor spare parts inventory, and assign tasks to employees**.  
+This project demonstrates skills in database design, SQL, data analytics.
 
 ---
 
 ## Key Features
-- **Order Management:** Tracks the full lifecycle of a service order from client request to completion.  
-- **Inventory & Supplier Tracking:** Manages stock levels and supplier information for spare parts.  
-- **Service & Labor Integration:** Links services to qualified workers and calculates costs.  
-- **Data Analysis & Reporting:** Includes complex SQL queries for business insights such as top services, employee performance, and stock status.
+- **Order Management:** tracks the full lifecycle of a service order from client request to completion.  
+- **Inventory & Supplier Tracking:** manages stock levels and supplier information for spare parts.  
+- **Service & Labor Integration:** links services to qualified workers and calculates costs.  
+- **Data Analysis & Reporting:** includes complex SQL queries for business insights such as top services, employee performance, and stock status.
 
 ---
 
@@ -34,13 +34,13 @@ The database consists of **6 core tables**, designed for normalization and data 
 
 ## Technical Highlights
 - **Data Modeling:** Entity-Relationship Diagram (ERD) visualizes relationships between tables.  
-- **Normalization:** Applied **3NF** to reduce redundancy and prevent update anomalies.  
+- **Normalization:** applied **3NF** to reduce redundancy and prevent update anomalies.  
 - **SQL Implementation:**  
   - Queries with **JOINs, UNIONs, GROUP BY, HAVING**  
   - Relational algebra operations: Selection, Projection, Cartesian Product, Division  
   - Dynamic reporting using **CASE/IF expressions**  
-- **Data Handling:** Sample data provided for demonstration  
-- **Access Control:** User roles and permissions defined (GRANT/REVOKE)
+- **Data Handling:** sample data provided for demonstration  
+- **Access Control:** user roles and permissions defined (GRANT/REVOKE)
 
 ---
 
