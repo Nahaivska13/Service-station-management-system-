@@ -2,7 +2,7 @@
 
 ## Overview
 "Katalizator" is a relational database system designed for a car service station.  
-The system helps to manage clients, track service orders, monitor spare parts inventory, and assign tasks to employees**.  
+The system helps to manage clients, track service orders, monitor spare parts inventory, and assign tasks to employees.  
 This project demonstrates skills in database design, SQL, data analytics.
 
 ---
